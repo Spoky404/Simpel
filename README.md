@@ -11,4 +11,3 @@ $ git clone https://github.com/Spoky404/Simpel.git
 $ ls
 $ cd Simpel
 $ ls
-$ python Rd_simpel.py
